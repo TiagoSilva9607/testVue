@@ -1,5 +1,5 @@
 <template>
-  <div>Hello {{ value }}, DIBET !!</div>
+  <div>Hello {{ value }}, DIBET !! UPDATE VUE 3</div>
 </template>
 
 <script>
